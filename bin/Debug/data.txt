@@ -1,0 +1,44 @@
+Nombre de noeuds :
+4
+
+Coordonnes des noeuds (x, y):
+0 0
+5 8,66
+10 0
+15 8,66
+
+Nombre d'elements :
+5
+
+Raideurs :
+5
+4
+3
+2
+1
+
+Connexion d'elements (No. noeud 1, No. noeud 2) :
+1 2
+2 3
+1 3
+3 4
+2 4
+
+Force sur noeuds (Force, Angle d'orientation) :
+0 0
+5 45
+0 0
+0 0
+
+Condition limite sur les noeuds (X (1=connue,0=non), valeur x; Y (1=connue,0=non), valeur y) :
+1 0 1 0
+0 0 0 0
+0 0 1 0
+0 0 0 0
+
+Angle entre l'élément et l'horizontale
+45
+135
+0
+45
+0
