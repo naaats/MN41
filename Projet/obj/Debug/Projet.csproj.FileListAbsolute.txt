@@ -1,3 +1,4 @@
 U:\Mes documents\01 COURS\MN41\Projet MN41111111111111111111111111111111111111\Projet\Projet\bin\Debug\Projet.exe.config
 C:\01 UTBM\Semestre 5_A15\MN41\Projet MN41111111111111111111111111111111111111\Projet\Projet\bin\Debug\Projet.exe.config
 C:\01 UTBM\Semestre 5_A15\MN41\Projet MN41\Projet\Projet\bin\Debug\Projet.exe.config
+C:\01 UTBM\Semestre 5_A15\MN41\Projet MN41\Projet Github\MN41\Projet\bin\Debug\Projet.exe.config
