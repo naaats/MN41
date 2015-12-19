@@ -41,6 +41,7 @@ namespace Projet
 
         static void lecture_fichier ()
         {
+            int i, j;
             string texte;
             string FilePath = @"data.text";
             StreamReader fichier = new StreamReader(FilePath);
@@ -68,7 +69,7 @@ namespace Projet
             //Nombre elements
             fichier.ReadLine();
             fichier.ReadLine();
-            int ne = new int;
+            int ne = new int();
             ne = Convert.ToInt32(fichier.ReadLine());
 
             //Raideurs
@@ -143,7 +144,7 @@ namespace Projet
                 string[] nums = texte.Split(' ');
                 W[i] = Convert.ToDouble(nums[i]);
             }
-            double[] H = new double[ne, 2];
+            double[,] H = new double[ne, 2];
             for (i = 0; i < ne; i++)
             {
                 H[i, 1] = Math.Cos(W[i]);
